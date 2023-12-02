@@ -8,3 +8,7 @@ Python et pip doivent être installés sur votre ordinateur.
 # python -m virtualenv env
 # source /path/to/env/bin/activate
 # pip install -r requirements.txt
+
+
+run project:
+# streamlit run file.py
